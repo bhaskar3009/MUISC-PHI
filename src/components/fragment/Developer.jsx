@@ -18,12 +18,11 @@ const Developer = () => {
                     </div>
                 </div>
                 <div className="Developer-profileDetails">
-                    <p>A Computer Science and Engineering Student at Lovely Professional University, Punjab.</p>
-                    <p>Graduating in 2022 and looking for a responsible position to gain practical knowledge</p>
-                    <p>A full-stack web developer and a Competitive coder.</p>
+                    <p>A Computer Engineering Student at KJSIEIT, Sion.</p>
+                    <p>Graduating in 2024 and looking for a responsible position to gain practical knowledge</p>
+                    <p>A front-endd web developer and a Competitive coder.</p>
                     <p>I love designing fully responsive websites.</p>
                     <p>I have a keen interest in developing projects, whenever I want to learn something new.</p>
-                    <p>And a blogger.</p>
                     <div className="Card-btn">
                         <IconButton target={"_blank"}  href={"https://www.facebook.com/vishal.kld"} title={"vishal.kld"}>
                             <Facebook/>
