@@ -11,14 +11,16 @@ const DropDownLanguageList = () => {
     const useStyle = useContext(ThemeContext);
 
     const listOfLanguage = [
-        "Any",
+        
         "Hindi",
         "English",
+        "Any",
     ];
     const [selectedList, setSelectedList] = useState({
-        "Any": false,
         "Hindi": false,
         "English": false,
+        "Any": false,
+
     });
     const handleSelected = (val, selected) => {
         setSelectedList(prevState => {
