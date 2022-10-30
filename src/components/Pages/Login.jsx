@@ -19,7 +19,7 @@ class Login extends React.Component{
                             <h1>PLAY-HEAL-INTERAC</h1>
                             <p>When Words Fail, Music Speaks</p>
                             <Link to={"/home"} className="btn">
-                                Start Listening
+                                Play Songs
                             </Link>
                         </div>
                     </div>
