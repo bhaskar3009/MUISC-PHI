@@ -1,7 +1,6 @@
 import React from "react";
 import {Link} from "react-router-dom";
 import "../assets/scss/Brand.scss";
-import Logo from "../assets/img/headphonesLogo.svg"
 
 class Brand extends React.Component {
     render() {
@@ -9,7 +8,7 @@ class Brand extends React.Component {
             <div  className={"brand"}>
                 <Link to={"/home"}>
                     <h1>
-                        Muisc-Phi
+                        Music-Phi
                     </h1>
                 </Link>
             </div>
