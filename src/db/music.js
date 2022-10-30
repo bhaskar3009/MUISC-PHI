@@ -1,4 +1,4 @@
-let musicDB = [
+/*let musicDB = [
     {
         id: 0,
         name: "Shakedown",
@@ -145,8 +145,8 @@ let musicDB = [
     }
 ];
 
-export default musicDB;
-/*let musicDB = [
+export default musicDB;*/
+let musicDB = [
   {
     id:0,
     name:"Left Foot Up Right Foot Slide",
@@ -409,4 +409,4 @@ export default musicDB;
     musicName:"i_dont_care.mp3"
   }
 ]
-export default musicDB;*/
+export default musicDB;
