@@ -51,7 +51,7 @@ function Navigation() {
             </div>
             <div className="profile" onClick={handleOpenProfile}>
                 <Button className={"Dropdown-btn"}
-                        startIcon={<Avatar style={{width:'30px',height:'30px',padding:'18px'}} >VS</Avatar>}
+                        startIcon={<Avatar style={{width:'30px',height:'30px',padding:'18px'}} >BC</Avatar>}
                         endIcon={isOpenProfile ? <ExpandMoreIcon/> : <ExpandLessIcon/>}>
 
                 </Button>
