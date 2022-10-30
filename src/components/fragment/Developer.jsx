@@ -12,9 +12,9 @@ const Developer = () => {
                 <div className="Developer-profileCard">
                     <img src={AvatarImage} alt="Profile"/>
                     <div className={"Card-details"}>
-                        <h3>Vishal Singh</h3>
-                        <p>Full Stack developer</p>
-                        <p>Competitive Coder</p>
+                        <h3>Bhaskar Chavan</h3>
+                        <p>Front-End developer</p>
+                        <p></p>
                     </div>
                 </div>
                 <div className="Developer-profileDetails">
