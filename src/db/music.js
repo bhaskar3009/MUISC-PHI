@@ -142,7 +142,24 @@ let musicDB = [
             download: "http://ncs.io/Ignite",
             stream: "http://youtu.be/zbqgv0mMfwk"
         }
-    }
+    },
+    {
+      id: 9,
+      name: "XYZ",
+      author_name: "Tom wilson, Heuse",
+      img: "twenty-five-1667869239-rFoLdWkshY.jpg",
+      lang: "ENGLISH",
+      timesPlayed: 0,
+      type: "sad",
+      musicName: "if found x Luma - twenty five [NCS Release].mp3",
+      attribution: {
+          song: "if found x Luma - twenty five [NCS Release]",
+          musicBy: "NoCopyrightSounds",
+          download: " http://ncs.io/TwentyFive",
+          // stream: "https://youtu.be/q6kzYPfhilg"
+      }
+  }
+
 ];
 
 export default musicDB;
