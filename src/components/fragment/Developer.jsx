@@ -2,6 +2,9 @@ import React from 'react';
 import '../assets/scss/Developer.scss';
 import {IconButton} from "@material-ui/core";
 import AvatarImage from "../assets/img/avatar.jpg";
+import AvatarImage2 from "../assets/img/mahendra.jpg";
+import AvatarImage3 from "../assets/img/dev.jpg";
+import AvatarImage4 from "../assets/img/naina.jpg";
 import {Facebook, Instagram, LinkedIn, Portrait, Twitter} from "@material-ui/icons";
 
 const Developer = () => {
@@ -51,7 +54,7 @@ const Developer = () => {
             <br />
             <div className="Developer-profile">
                 <div className="Developer-profileCard">
-                    <img src={AvatarImage} alt="Profile"/>
+                    <img src={AvatarImage2} alt="Profile"/>
                     <div className={"Card-details"}>
                         <h3>Mahendra Bhanushali</h3>
                         <p>Python Developer</p>
@@ -91,7 +94,7 @@ const Developer = () => {
             <br />
             <div className="Developer-profile">
                 <div className="Developer-profileCard">
-                    <img src={AvatarImage} alt="Profile"/>
+                    <img src={AvatarImage3} alt="Profile"/>
                     <div className={"Card-details"}>
                         <h3>Devkumar Bharuka</h3>
                         <p>Back-End developer</p>
@@ -103,7 +106,7 @@ const Developer = () => {
                     <p>Graduating in 2024 and looking for a responsible position to gain practical knowledge</p>
                     <p>A back-end web developer.</p>
                     <p>I love to make website live and dynamic by backend.</p>
-                    <p>I have a keen interest in developing projects, whenever I want to learn something new.</p>
+                    <p>I have an enthusiastic about the how web pages works at backend.</p>
                     <div className="Card-btn">
                         <IconButton target={"_blank"}  href={"#"} title={"vishal.kld"}>
                         {/* https://www.facebook.com/vishal.kld */}
@@ -131,7 +134,7 @@ const Developer = () => {
             <br />
             <div className="Developer-profile">
                 <div className="Developer-profileCard">
-                    <img src={AvatarImage} alt="Profile"/>
+                    <img src={AvatarImage4} alt="Profile"/>
                     <div className={"Card-details"}>
                         <h3>Naina Dogra</h3>
                         <p>Front-End developer</p>
@@ -141,9 +144,9 @@ const Developer = () => {
                 <div className="Developer-profileDetails">
                     <p>A Computer Engineering Student at KJSIEIT, Sion.</p>
                     <p>Graduating in 2024 and looking for a responsible position to gain practical knowledge</p>
-                    <p>A front-end web developer and a Competitive coder.</p>
-                    <p>I love designing fully responsive websites.</p>
-                    <p>I have a keen interest in developing projects, whenever I want to learn something new.</p>
+                    <p>A front-end web developer and a python developer.</p>
+                    <p>Also comfortable with c programming.</p>
+                    <p>I am interested in making responsive front end applications.</p>
                     <div className="Card-btn">
                         <IconButton target={"_blank"}  href={"#"} title={"vishal.kld"}>
                         {/* https://www.facebook.com/vishal.kld */}
