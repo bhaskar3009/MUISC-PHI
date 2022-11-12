@@ -190,6 +190,22 @@ let musicDB = [
         download: "https://ncs.io/FindAWay",
         // stream: "https://youtu.be/q6kzYPfhilg"
     }
+  },
+  {
+    id: 13,
+    name: "Find A Way",
+    author_name: "T & Sugah, NCT, Cammie Robinson",
+    img: "Find A Way.jpeg",
+    lang: "ENGLISH",
+    timesPlayed: 0,
+    type: "happy",
+    musicName: "T & Sugah x NCT - Find A Way (feat. Cammie Robinson) [NCS Release].mp3",
+    attribution: {
+        song: "T & Sugah x NCT - Find A Way (feat. Cammie Robinson) [NCS Release]",
+        musicBy: "NoCopyrightSounds",
+        download: "https://ncs.io/FindAWay",
+        // stream: "https://youtu.be/q6kzYPfhilg"
+    }
   }
 
 
