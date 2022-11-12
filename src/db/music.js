@@ -145,12 +145,12 @@ let musicDB = [
     },
     {
       id: 9,
-      name: "XYZ",
-      author_name: "Tom wilson, Heuse",
+      name: "twenty-five",
+      author_name: "if found, Luma",
       img: "twenty-five-1667869239-rFoLdWkshY.jpg",
       lang: "ENGLISH",
       timesPlayed: 0,
-      type: "sad",
+      type: "happy",
       musicName: "if found x Luma - twenty five [NCS Release].mp3",
       attribution: {
           song: "if found x Luma - twenty five [NCS Release]",
@@ -160,21 +160,38 @@ let musicDB = [
       }
   },
   {
-    id: 10,
-    name: "When I'm With You",
-    author_name: "Arcando",
-    img: "when I'm with you.jpeg",
+    id: 11,
+    name: "Heroes Tonight",
+    author_name: "Janji, Johnning",
+    img: "Heroes Tonight.jpeg",
     lang: "ENGLISH",
     timesPlayed: 0,
     type: "happy",
-    musicName: "if found x Luma - twenty five [NCS Release].mp3",
+    musicName: "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3",
     attribution: {
-        song: "if found x Luma - twenty five [NCS Release]",
+        song: "Janji - Heroes Tonight (feat. Johnning) [NCS Release]",
         musicBy: "NoCopyrightSounds",
-        download: " http://ncs.io/TwentyFive",
+        download: "https://ncs.io/ht",
         // stream: "https://youtu.be/q6kzYPfhilg"
     }
-}
+  },
+  {
+    id: 12,
+    name: "Find A Way",
+    author_name: "T & Sugah, NCT, Cammie Robinson",
+    img: "Find A Way.jpeg",
+    lang: "ENGLISH",
+    timesPlayed: 0,
+    type: "happy",
+    musicName: "T & Sugah x NCT - Find A Way (feat. Cammie Robinson) [NCS Release].mp3",
+    attribution: {
+        song: "T & Sugah x NCT - Find A Way (feat. Cammie Robinson) [NCS Release]",
+        musicBy: "NoCopyrightSounds",
+        download: "https://ncs.io/FindAWay",
+        // stream: "https://youtu.be/q6kzYPfhilg"
+    }
+  }
+
 
 ];
 
