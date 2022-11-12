@@ -158,7 +158,23 @@ let musicDB = [
           download: " http://ncs.io/TwentyFive",
           // stream: "https://youtu.be/q6kzYPfhilg"
       }
-  }
+  },
+  {
+    id: 10,
+    name: "When I'm With You",
+    author_name: "Arcando",
+    img: "when I'm with you.jpeg",
+    lang: "ENGLISH",
+    timesPlayed: 0,
+    type: "happy",
+    musicName: "if found x Luma - twenty five [NCS Release].mp3",
+    attribution: {
+        song: "if found x Luma - twenty five [NCS Release]",
+        musicBy: "NoCopyrightSounds",
+        download: " http://ncs.io/TwentyFive",
+        // stream: "https://youtu.be/q6kzYPfhilg"
+    }
+}
 
 ];
 
