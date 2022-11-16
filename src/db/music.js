@@ -1,20 +1,71 @@
 let musicDB = [
+  
     {
-        id: 0,
-        name: "Shakedown",
-        author_name: "Clarx",
-        img: "shakedown.jpg",
-        lang: "ENGLISH",
-        timesPlayed: 0,
-        type: "sad",
-        musicName: "Clarx - Shakedown [NCS Release].mp3",
-        attribution: {
-            song: "Clarx - Shakedown [NCS Release]",
-            musicBy: "NoCopyrightSounds",
-            download: "http://ncs.io/Shakedown",
-            stream: "http://youtu.be/qJT0mc3q6Lg"
-        }
-    },
+      id: 9,
+      name: "twenty-five",
+      author_name: "if found, Luma",
+      img: "twenty-five-1667869239-rFoLdWkshY.jpg",
+      lang: "ENGLISH",
+      timesPlayed: 0,
+      type: "happy",
+      musicName: "if found x Luma - twenty five [NCS Release].mp3",
+      attribution: {
+          song: "if found x Luma - twenty five [NCS Release]",
+          musicBy: "NoCopyrightSounds",
+          download: " http://ncs.io/TwentyFive",
+          // stream: "https://youtu.be/q6kzYPfhilg"
+      }
+  },
+  {
+    id: 8,
+    name: "Ignite",
+    author_name: "Tom wilson, Heuse",
+    img: "ignite-1600419626-nHn4WXY79q.jpg",
+    lang: "ENGLISH",
+    timesPlayed: 0,
+    type: "sad",
+    musicName: "Heuse & Tom Wilson - Ignite [NCS Release].mp3",
+    attribution: {
+        song: "Heuse & Tom Wilson - Ignite [NCS Release]",
+        musicBy: "NoCopyrightSounds",
+        download: "http://ncs.io/Ignite",
+        stream: "http://youtu.be/zbqgv0mMfwk"
+    }
+},
+
+{
+  id: 11,
+  name: "Heroes Tonight",
+  author_name: "Janji, Johnning",
+  img: "Heroes Tonight.jpeg",
+  lang: "ENGLISH",
+  timesPlayed: 0,
+  type: "happy",
+  musicName: "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3",
+  attribution: {
+      song: "Janji - Heroes Tonight (feat. Johnning) [NCS Release]",
+      musicBy: "NoCopyrightSounds",
+      download: "https://ncs.io/ht",
+      // stream: "https://youtu.be/q6kzYPfhilg"
+  }
+},
+{
+  id: 16,
+  name: "Home",
+  author_name: "Pleeg",
+  img: "home.jpg",
+  lang: "ENGLISH",
+  timesPlayed: 0,
+  type: "happy",
+  musicName: "_PLEEG - Home [NCS Release].mp3",
+  attribution: {
+      song: "_PLEEG - Home [NCS Release]",
+      musicBy: "NoCopyrightSounds",
+      download: "https://ncs.io/PLHome",
+      // stream: "https://youtu.be/q6kzYPfhilg"
+  }
+},
+    
     {
         id: 1,
         name: "Games Worldbeat",
@@ -31,6 +82,39 @@ let musicDB = [
             stream: null
         }
     },
+    
+    {
+      id: 4,
+      name: "Apocalypse",
+      author_name: "Midranger",
+      img: "apocalypse-1600776027-tsCmgK4gEU.jpg",
+      lang: "ENGLISH",
+      timesPlayed: 0,
+      type: "sad",
+      musicName: "Midranger - Apocalypse [NCS Release].mp3",
+      attribution: {
+          song: "Midranger - Apocalypse [NCS Release]",
+          musicBy: "NoCopyrightSounds",
+          download: "http://ncs.io/Apocalypse",
+          stream: "http://youtu.be/Whw1sWDpAvE"
+      }
+  },
+  {
+    id: 15,
+    name: "E Welem Bah",
+    author_name: "Paul Flint",
+    img: "e welen bah.jpeg",
+    lang: "ENGLISH",
+    timesPlayed: 0,
+    type: "happy",
+    musicName: "_Paul Flint - E Welem Bah [NCS Release].mp3",
+    attribution: {
+        song: "_Paul Flint - E Welem Bah [NCS Release]",
+        musicBy: "NoCopyrightSounds",
+        download: "https://ncs.io/EWelemBah",
+        // stream: "https://youtu.be/q6kzYPfhilg"
+    }
+  },
     {
         id: 2,
         name: "OverMyHead",
@@ -47,6 +131,39 @@ let musicDB = [
             stream: null
         }
     },
+    
+  {
+    id: 13,
+    name: "Find A Way",
+    author_name: "T & Sugah, NCT, Cammie Robinson",
+    img: "Find A Way.jpeg",
+    lang: "ENGLISH",
+    timesPlayed: 0,
+    type: "happy",
+    musicName: "T & Sugah x NCT - Find A Way (feat. Cammie Robinson) [NCS Release].mp3",
+    attribution: {
+        song: "T & Sugah x NCT - Find A Way (feat. Cammie Robinson) [NCS Release]",
+        musicBy: "NoCopyrightSounds",
+        download: "https://ncs.io/FindAWay",
+        // stream: "https://youtu.be/q6kzYPfhilg"
+    }
+  },
+  {
+    id: 14,
+    name: "Online",
+    author_name: "MANSHN",
+    img: "online.jpeg",
+    lang: "ENGLISH",
+    timesPlayed: 0,
+    type: "happy",
+    musicName: "MANSHN - Online [NCS Release].mp3",
+    attribution: {
+        song: "MANSHN - Online [NCS Release]",
+        musicBy: "NoCopyrightSounds",
+        download: "https://ncs.io/Online",
+        // stream: "https://youtu.be/q6kzYPfhilg"
+    }
+  },
     {
         id: 3,
         name: "Want You (feat. Sara Skinner)",
@@ -61,22 +178,6 @@ let musicDB = [
             musicBy: "NoCopyrightSounds",
             download: "http://ncs.io/WantYou",
             stream: "http://youtu.be/Pww31vN_1QY"
-        }
-    },
-    {
-        id: 4,
-        name: "Apocalypse",
-        author_name: "Midranger",
-        img: "apocalypse-1600776027-tsCmgK4gEU.jpg",
-        lang: "ENGLISH",
-        timesPlayed: 0,
-        type: "sad",
-        musicName: "Midranger - Apocalypse [NCS Release].mp3",
-        attribution: {
-            song: "Midranger - Apocalypse [NCS Release]",
-            musicBy: "NoCopyrightSounds",
-            download: "http://ncs.io/Apocalypse",
-            stream: "http://youtu.be/Whw1sWDpAvE"
         }
     },
     {
@@ -111,6 +212,7 @@ let musicDB = [
             stream: null
         }
     },
+    
     {
         id: 7,
         name: "Impact Moderato 2",
@@ -127,86 +229,24 @@ let musicDB = [
             stream: null
         }
     },
+    
     {
-        id: 8,
-        name: "Ignite",
-        author_name: "Tom wilson, Heuse",
-        img: "ignite-1600419626-nHn4WXY79q.jpg",
-        lang: "ENGLISH",
-        timesPlayed: 0,
-        type: "sad",
-        musicName: "Heuse & Tom Wilson - Ignite [NCS Release].mp3",
-        attribution: {
-            song: "Heuse & Tom Wilson - Ignite [NCS Release]",
-            musicBy: "NoCopyrightSounds",
-            download: "http://ncs.io/Ignite",
-            stream: "http://youtu.be/zbqgv0mMfwk"
-        }
-    },
-    {
-      id: 9,
-      name: "twenty-five",
-      author_name: "if found, Luma",
-      img: "twenty-five-1667869239-rFoLdWkshY.jpg",
+      id: 10,
+      name: "Shakedown",
+      author_name: "Clarx",
+      img: "shakedown.jpg",
       lang: "ENGLISH",
       timesPlayed: 0,
-      type: "happy",
-      musicName: "if found x Luma - twenty five [NCS Release].mp3",
+      type: "sad",
+      musicName: "Clarx - Shakedown [NCS Release].mp3",
       attribution: {
-          song: "if found x Luma - twenty five [NCS Release]",
+          song: "Clarx - Shakedown [NCS Release]",
           musicBy: "NoCopyrightSounds",
-          download: " http://ncs.io/TwentyFive",
-          // stream: "https://youtu.be/q6kzYPfhilg"
+          download: "http://ncs.io/Shakedown",
+          stream: "http://youtu.be/qJT0mc3q6Lg"
       }
   },
-  {
-    id: 11,
-    name: "Heroes Tonight",
-    author_name: "Janji, Johnning",
-    img: "Heroes Tonight.jpeg",
-    lang: "ENGLISH",
-    timesPlayed: 0,
-    type: "happy",
-    musicName: "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3",
-    attribution: {
-        song: "Janji - Heroes Tonight (feat. Johnning) [NCS Release]",
-        musicBy: "NoCopyrightSounds",
-        download: "https://ncs.io/ht",
-        // stream: "https://youtu.be/q6kzYPfhilg"
-    }
-  },
-  {
-    id: 12,
-    name: "Find A Way",
-    author_name: "T & Sugah, NCT, Cammie Robinson",
-    img: "Find A Way.jpeg",
-    lang: "ENGLISH",
-    timesPlayed: 0,
-    type: "happy",
-    musicName: "T & Sugah x NCT - Find A Way (feat. Cammie Robinson) [NCS Release].mp3",
-    attribution: {
-        song: "T & Sugah x NCT - Find A Way (feat. Cammie Robinson) [NCS Release]",
-        musicBy: "NoCopyrightSounds",
-        download: "https://ncs.io/FindAWay",
-        // stream: "https://youtu.be/q6kzYPfhilg"
-    }
-  },
-  {
-    id: 13,
-    name: "Find A Way",
-    author_name: "T & Sugah, NCT, Cammie Robinson",
-    img: "Find A Way.jpeg",
-    lang: "ENGLISH",
-    timesPlayed: 0,
-    type: "happy",
-    musicName: "T & Sugah x NCT - Find A Way (feat. Cammie Robinson) [NCS Release].mp3",
-    attribution: {
-        song: "T & Sugah x NCT - Find A Way (feat. Cammie Robinson) [NCS Release]",
-        musicBy: "NoCopyrightSounds",
-        download: "https://ncs.io/FindAWay",
-        // stream: "https://youtu.be/q6kzYPfhilg"
-    }
-  }
+  
 
 
 ];
