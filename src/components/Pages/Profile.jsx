@@ -36,7 +36,7 @@ function Profile() {
         <Container>
             <div className={"Profile"}>
                 <div className="top-profile">
-                    <Avatar variant={"rounded"} src={require("../assets/img/avatar2.jpg")}
+                    <Avatar variant={"rounded"} src={require("../assets/img/avatar.jpg")}
                             style={{width: "150px", height: "150px"}}>
                         BC
                     </Avatar>
