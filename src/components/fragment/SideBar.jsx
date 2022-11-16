@@ -20,7 +20,7 @@ function SideBar() {
             </div>
             <div className="aside-bar-container playlist">
                 <p className={"p1"}>
-                    <span>MY PLAYLIST</span>
+                    <span>MY PLAYLIST/ RECOMMENDATIONS</span>
                 </p>
                 <SideBarOptions className={"lib-sub"} Icon={PlaylistPlay} href={"/home/playlist/happy"}  title={"happy"}/>
                 <SideBarOptions className={"lib-sub"} Icon={PlaylistPlay} href={"/home/playlist/sad"}  title={"sad"}/>
