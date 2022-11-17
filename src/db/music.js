@@ -65,6 +65,54 @@ let musicDB = [
       // stream: "https://youtu.be/q6kzYPfhilg"
   }
 },
+{
+  id: 17,
+  name: "AWAL",
+  author_name: "Papa Khan",
+  img: "awal.jpeg",
+  lang: "ENGLISH",
+  timesPlayed: 0,
+  type: "sad",
+  musicName: "Papa Khan - AWOL [NCS Release].mp3",
+  attribution: {
+      song: "Papa Khan - AWOL [NCS Release]",
+      musicBy: "NoCopyrightSounds",
+      download: "https://ncs.io/AWOL",
+      // stream: "https://youtu.be/q6kzYPfhilg"
+  }
+},
+{
+  id: 18,
+  name: "FREEDOM",
+  author_name: "Goodknight.",
+  img: "freedom.jpeg",
+  lang: "ENGLISH",
+  timesPlayed: 0,
+  type: "sad",
+  musicName: "Goodknight. - Freedom [NCS Release].mp3",
+  attribution: {
+      song: "Goodknight. - Freedom [NCS Release]",
+      musicBy: "NoCopyrightSounds",
+      download: "https://ncs.io/GFreedom",
+      // stream: "https://youtu.be/q6kzYPfhilg"
+  }
+},
+{
+  id: 19,
+  name: "Ruined My Life",
+  author_name: "Shiah Maisel, EBEN, Coopex",
+  img: "ruin.jpeg",
+  lang: "ENGLISH",
+  timesPlayed: 0,
+  type: "sad",
+  musicName: "Coopex, EBEN, Shiah Maisel - Ruined My Life [NCS Release].mp3",
+  attribution: {
+      song: "Coopex, EBEN, Shiah Maisel - Ruined My Life [NCS Release]",
+      musicBy: "NoCopyrightSounds",
+      download: "https://ncs.io/RuinedMyLife",
+      // stream: "https://youtu.be/q6kzYPfhilg"
+  }
+},
     
     {
         id: 1,
@@ -164,6 +212,38 @@ let musicDB = [
         // stream: "https://youtu.be/q6kzYPfhilg"
     }
   },
+  {
+    id: 19,
+    name: "The Path (Ft. Agassi)",
+    author_name: "Agassi, EH!DE, Wiguez",
+    img: "path.jpeg",
+    lang: "ENGLISH",
+    timesPlayed: 0,
+    type: "angry",
+    musicName: "Wiguez & EH!DE - The Path (Ft. Agassi) [NCS Release] (1).mp3",
+    attribution: {
+        song: "Wiguez & EH!DE - The Path (Ft. Agassi) [NCS Release] (1)",
+        musicBy: "NoCopyrightSounds",
+        download: "https://ncs.io/ThePath",
+        // stream: "https://youtu.be/q6kzYPfhilg"
+    }
+  },
+  {
+    id: 20,
+    name: "Alone",
+    author_name: "Cajama",
+    img: "alone.jpeg",
+    lang: "ENGLISH",
+    timesPlayed: 0,
+    type: "angry",
+    musicName: "Cajama - Alone [NCS Release].mp3",
+    attribution: {
+        song: "Cajama - Alone [NCS Release]",
+        musicBy: "NoCopyrightSounds",
+        download: "https://ncs.io/CajAlone",
+        // stream: "https://youtu.be/q6kzYPfhilg"
+    }
+  },
     {
         id: 3,
         name: "Want You (feat. Sara Skinner)",
@@ -212,6 +292,22 @@ let musicDB = [
             stream: null
         }
     },
+    {
+      id: 21,
+      name: "Away",
+      author_name: "James Roche",
+      img: "away.jpeg",
+      lang: "ENGLISH",
+      timesPlayed: 0,
+      type: "angry",
+      musicName: "James Roche - Away [NCS Release].mp3",
+      attribution: {
+          song: "James Roche - Away [NCS Release]",
+          musicBy: "NoCopyrightSounds",
+          download: "https://ncs.io/JRAway",
+          // stream: "https://youtu.be/q6kzYPfhilg"
+      }
+    },
     
     {
         id: 7,
@@ -245,6 +341,22 @@ let musicDB = [
           download: "http://ncs.io/Shakedown",
           stream: "http://youtu.be/qJT0mc3q6Lg"
       }
+  },
+  {
+    id: 22,
+    name: "Avatar",
+    author_name: "RYVN",
+    img: "avatar.jpeg",
+    lang: "ENGLISH",
+    timesPlayed: 0,
+    type: "angry",
+    musicName: "RYVN - Avatar [NCS Release].mp3",
+    attribution: {
+        song: "RYVN - Avatar [NCS Release]",
+        musicBy: "NoCopyrightSounds",
+        download: "https://ncs.io/Avatar",
+        // stream: "https://youtu.be/q6kzYPfhilg"
+    }
   },
   
 
