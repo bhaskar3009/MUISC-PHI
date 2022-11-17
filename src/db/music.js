@@ -359,6 +359,23 @@ let musicDB = [
     }
   },
   
+  {
+    id: 23,
+    name: "Need Ya",
+    author_name: "Syyn Cole",
+    img: "needya.jpeg",
+    lang: "ENGLISH",
+    timesPlayed: 0,
+    type: "peaceful",
+    musicName: "Syn Cole - Need Ya [NCS Release].mp3",
+    attribution: {
+        song: "Syn Cole - Need Ya [NCS Release]",
+        musicBy: "NoCopyrightSounds",
+        download: "https://ncs.io/NeedYa",
+        // stream: "https://youtu.be/q6kzYPfhilg"
+    }
+  },
+  
 
 
 ];

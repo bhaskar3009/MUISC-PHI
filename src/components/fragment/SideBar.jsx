@@ -25,6 +25,7 @@ function SideBar() {
                 <SideBarOptions className={"lib-sub"} Icon={PlaylistPlay} href={"/home/playlist/happy"}  title={"happy"}/>
                 <SideBarOptions className={"lib-sub"} Icon={PlaylistPlay} href={"/home/playlist/sad"}  title={"sad"}/>
                 <SideBarOptions className={"lib-sub"} Icon={PlaylistPlay} href={"/home/playlist/angry"}  title={"angry"}/>
+                <SideBarOptions className={"lib-sub"} Icon={PlaylistPlay} href={"/home/playlist/peaceful"}  title={"peaceful"}/>
 {/* <SideBarOptions className={"lib-sub"} Icon={PlaylistPlay} href={"/home/playlist/electronic"}  title={"party mood"}/> */}
             </div>
         </aside>
