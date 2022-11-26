@@ -1,5 +1,5 @@
 <h1 align="center">
-   MUSIC-PHI | PLAY-HEAL-INTERACT.
+   MUSIC-PHI | PLAY-HEAL-INTERACT
 </h1>
 
 <div align="center">
