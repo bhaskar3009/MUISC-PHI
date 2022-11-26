@@ -4,7 +4,7 @@
 
 <div align="center">
 
-    ![Screenshot (264)](https://user-images.githubusercontent.com/102614303/204084497-790f64e5-0c7b-41eb-ac84-55f281356135.png)
+    <!-- ![Screenshot (264)](https://user-images.githubusercontent.com/102614303/204084497-790f64e5-0c7b-41eb-ac84-55f281356135.png) -->
 
 ![Screenshot (264)](https://user-images.githubusercontent.com/102614303/204084497-790f64e5-0c7b-41eb-ac84-55f281356135.png)
 
