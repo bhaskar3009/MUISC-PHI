@@ -1,7 +1,7 @@
 let musicDB = [
   
     {
-      id: 9,
+      id: 1,
       name: "twenty-five",
       author_name: "if found, Luma",
       img: "twenty-five-1667869239-rFoLdWkshY.jpg",
@@ -17,7 +17,7 @@ let musicDB = [
       }
   },
   {
-    id: 8,
+    id: 2,
     name: "Ignite",
     author_name: "Tom wilson, Heuse",
     img: "ignite-1600419626-nHn4WXY79q.jpg",
@@ -32,9 +32,24 @@ let musicDB = [
         stream: "http://youtu.be/zbqgv0mMfwk"
     }
 },
+{
+  id: 3,
+  name: "If I Disappear",
+  author_name: "Tom Mårtensson, Tobu",
+  img: "ifi.jpeg",
+  lang: "ENGLISH",
+  timesPlayed: 0,
+  type: "peaceful",
+  musicName: "Tobu - If I Disappear (ft. Tom Mårtensson) [NCS Release].mp3",
+  attribution: {
+      song: "Tobu - If I Disappear (ft. Tom Mårtensson) [NCS Release]",
+      musicBy: "NoCopyrightSounds",
+      download: "http://ncs.io/ifidisappear",
+  }
+},
 
 {
-  id: 11,
+  id: 4,
   name: "Heroes Tonight",
   author_name: "Janji, Johnning",
   img: "Heroes Tonight.jpeg",
@@ -50,7 +65,7 @@ let musicDB = [
   }
 },
 {
-  id: 16,
+  id: 5,
   name: "Home",
   author_name: "Pleeg",
   img: "home.jpg",
@@ -66,7 +81,7 @@ let musicDB = [
   }
 },
 {
-  id: 17,
+  id: 6,
   name: "AWAL",
   author_name: "Papa Khan",
   img: "awal.jpeg",
@@ -82,7 +97,7 @@ let musicDB = [
   }
 },
 {
-  id: 18,
+  id: 7,
   name: "FREEDOM",
   author_name: "Goodknight.",
   img: "freedom.jpeg",
@@ -98,7 +113,7 @@ let musicDB = [
   }
 },
 {
-  id: 19,
+  id: 8,
   name: "Ruined My Life",
   author_name: "Shiah Maisel, EBEN, Coopex",
   img: "ruin.jpeg",
@@ -115,7 +130,7 @@ let musicDB = [
 },
     
     {
-        id: 1,
+        id: 9,
         name: "Games Worldbeat",
         author_name: "Bernardo R.",
         img: "notAvailable.jpg",
@@ -132,7 +147,7 @@ let musicDB = [
     },
     
     {
-      id: 4,
+      id: 10,
       name: "Apocalypse",
       author_name: "Midranger",
       img: "apocalypse-1600776027-tsCmgK4gEU.jpg",
@@ -148,7 +163,7 @@ let musicDB = [
       }
   },
   {
-    id: 15,
+    id: 11,
     name: "E Welem Bah",
     author_name: "Paul Flint",
     img: "e welen bah.jpeg",
@@ -163,8 +178,23 @@ let musicDB = [
         // stream: "https://youtu.be/q6kzYPfhilg"
     }
   },
+  {
+    id: 12,
+    name: "Lost Without You",
+    author_name: "Felix Samuel, Millbrook",
+    img: "lost.jpeg",
+    lang: "ENGLISH",
+    timesPlayed: 0,
+    type: "peaceful",
+    musicName: "Millbrook - Lost Without You (ft. Felix Samuel) [NCS Release].mp3",
+    attribution: {
+        song: "Millbrook - Lost Without You (ft. Felix Samuel) [NCS Release].mp3",
+        musicBy: "NoCopyrightSounds",
+        download: "https://ncs.io/LostWithoutYou",
+    }
+  },
     {
-        id: 2,
+        id: 13,
         name: "OverMyHead",
         author_name: " ROY KNOX",
         img: "over-my-head-1602154826-mOiKzOJDe6.jpg",
@@ -181,7 +211,7 @@ let musicDB = [
     },
     
   {
-    id: 13,
+    id: 14,
     name: "Find A Way",
     author_name: "T & Sugah, NCT, Cammie Robinson",
     img: "Find A Way.jpeg",
@@ -197,7 +227,7 @@ let musicDB = [
     }
   },
   {
-    id: 14,
+    id: 15,
     name: "Online",
     author_name: "MANSHN",
     img: "online.jpeg",
@@ -213,7 +243,7 @@ let musicDB = [
     }
   },
   {
-    id: 19,
+    id: 16,
     name: "The Path (Ft. Agassi)",
     author_name: "Agassi, EH!DE, Wiguez",
     img: "path.jpeg",
@@ -229,7 +259,22 @@ let musicDB = [
     }
   },
   {
-    id: 20,
+    id: 17,
+    name: "Time",
+    author_name: "Syn Cole",
+    img: "time.jpeg",
+    lang: "ENGLISH",
+    timesPlayed: 0,
+    type: "peaceful",
+    musicName: "Syn Cole - Time [NCS Release].mp3",
+    attribution: {
+        song: "Syn Cole - Time [NCS Release]",
+        musicBy: "NoCopyrightSounds",
+        download: "https://ncs.io/SCTime",
+    }
+  },
+  {
+    id: 18,
     name: "Alone",
     author_name: "Cajama",
     img: "alone.jpeg",
@@ -245,7 +290,7 @@ let musicDB = [
     }
   },
     {
-        id: 3,
+        id: 19,
         name: "Want You (feat. Sara Skinner)",
         author_name: "Subtact, Sara Skinner",
         img: "want-you-feat-sara-skinner-1586956276-s4lOrfrHQj.jpg",
@@ -261,7 +306,7 @@ let musicDB = [
         }
     },
     {
-        id: 5,
+        id: 20,
         name: "Alive",
         author_name: "Neoni, N3WPORT",
         img: "alive.jpg",
@@ -277,7 +322,7 @@ let musicDB = [
         }
     },
     {
-        id: 6,
+        id: 21,
         name: "Impact Moderato",
         author_name: "Kevin MacLeod",
         img: "notAvailable.jpg",
@@ -293,7 +338,7 @@ let musicDB = [
         }
     },
     {
-      id: 21,
+      id: 22,
       name: "Away",
       author_name: "James Roche",
       img: "away.jpeg",
@@ -310,7 +355,7 @@ let musicDB = [
     },
     
     {
-        id: 7,
+        id: 23,
         name: "Impact Moderato 2",
         author_name: "Kevin MacLeod",
         img: "notAvailable.jpg",
@@ -327,7 +372,7 @@ let musicDB = [
     },
     
     {
-      id: 10,
+      id: 24,
       name: "Shakedown",
       author_name: "Clarx",
       img: "shakedown.jpg",
@@ -343,7 +388,7 @@ let musicDB = [
       }
   },
   {
-    id: 22,
+    id: 25,
     name: "Avatar",
     author_name: "RYVN",
     img: "avatar.jpeg",
@@ -360,7 +405,7 @@ let musicDB = [
   },
   
   {
-    id: 23,
+    id: 26,
     name: "Need Ya",
     author_name: "Syyn Cole",
     img: "needya.jpeg",
